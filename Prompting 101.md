@@ -1,7 +1,5 @@
 # Examples of Prompting Techniques
 
-Here are examples of the prompting techniques discussed in the questions:
-
 ---
 
 ## 1. Zero-shot Prompting
